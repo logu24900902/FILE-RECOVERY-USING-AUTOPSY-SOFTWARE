@@ -72,6 +72,6 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
-
+![App Screenshot](Screenshot 2026-03-14 162243.png)
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
