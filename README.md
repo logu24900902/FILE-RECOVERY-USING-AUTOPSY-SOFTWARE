@@ -72,9 +72,10 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
-![App Screenshot](screenshot.png)
-![App Screenshot](screenshot1.png)
-![App Screenshot](screenshot2.png)
-![App Screenshot](screenshot3.png)
+
+<img src="screenshot.png" width="600" height="400">
+<img src="screenshot1.png" width="600" height="400">
+<img src="screenshot2.png" width="600" height="400">
+<img src="screenshot3.png" width="600" height="400">
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
